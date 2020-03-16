@@ -1,0 +1,25 @@
+body{
+color:white;
+}
+.eagles-schedule{
+    display:flex;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+    color:#104B54;
+}
+.schedule{
+    background-color: #A3AAAD
+    ;
+
+    margin:auto;
+}
+table, td, th{
+    border:1px solid black;
+    font-size:1.2em;
+    padding:5px
+    }
+thead, tbody{
+    background:#104B54 
+}
